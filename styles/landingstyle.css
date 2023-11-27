@@ -34,7 +34,7 @@
     width: 70%;
     margin-top: 20px;
   }
-  #container #btn1,#btn2 {
+  #container #btn1,#btn2,#btn3 {
     font-size: 18px;
     text-decoration: none;
     color: #24465d;
@@ -43,7 +43,7 @@
     border-radius: 10px;
     margin-top: 40px;
   }
-  #container #btn1:hover,#btn2:hover {
+  #container #btn1:hover,#btn2:hover,#btn3:hover {
     background: #788e9c;
     color: #fff;
     border: 2px solid #fff;
